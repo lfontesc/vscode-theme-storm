@@ -2,6 +2,7 @@
     "name": "storm066",
     "displayName": "storm-dark-pro",
     "description": "Theme for Storm",
+    "publisher": "storm066",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
