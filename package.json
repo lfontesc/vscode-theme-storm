@@ -1,0 +1,21 @@
+{
+    "name": "storm066",
+    "displayName": "storm-dark-pro",
+    "description": "meu tema",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lfonteesc",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lfonteesc-color-theme.json"
+            }
+        ]
+    }
+}
