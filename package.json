@@ -1,7 +1,7 @@
 {
     "name": "storm066",
     "displayName": "storm-dark-pro",
-    "description": "meu tema",
+    "description": "Theme for Storm",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
@@ -9,10 +9,14 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+      "url": "https://github.com/lfontesc/vscode-theme-storm",
+      "type": "git"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "lfonteesc",
+                "label": "Storm Dark Pro",
                 "uiTheme": "vs-dark",
                 "path": "./themes/lfonteesc-color-theme.json"
             }
