@@ -14,12 +14,33 @@
       "url": "https://github.com/lfontesc/vscode-theme-storm",
       "type": "git"
     },
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
                 "label": "Storm Dark Pro",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lfonteesc-color-theme.json"
+                "path": "./themes/storm-dark-pro.json"
+            },
+              {
+                "label": "Storm Darker Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/storm-dark-pro-darker.json"
+            },
+              {
+                "label": "Storm Master v1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/storm-master-v1-color-theme.json"
+            },
+              {
+                "label": "Storm Enhanced Material",
+                "uiTheme": "vs-dark",
+                "path": "./themes/enhanced-material.json"
+            },
+                          {
+                "label": "Storm UvaDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/uvadark-rahul-fork-color-theme.json"
             }
         ]
     }
